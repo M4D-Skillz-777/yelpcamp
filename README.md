@@ -9,10 +9,14 @@ I encounterd a lot problems and code breaks along the way but I had fun doing it
 
 P.S this will also be my first git push so also kinda proud of that
 
+##Link to the hosted webapp
+
+* [Yelp Camp] (https://tranquil-tundra-75459.herokuapp.com)
+
 ## Authors
 
 * Adwaiy Randale
-* [Mail](adflarezero3@gmail.com)
+* Mail [adflarezero3@gmail.com]
 * Twitter [@Adwaiy R](https://twitter.com/adwaiyr)
 
 
