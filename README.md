@@ -11,9 +11,9 @@ P.S this will also be my first git push so also kinda proud of that
 
 ## Authors
 
-*Adwaiy Randale
-*[Mail](adflarezero3@gmail.com)
-*Twitter [@Adwaiy R](https://twitter.com/adwaiyr)
+* Adwaiy Randale
+* [Mail](adflarezero3@gmail.com)
+* Twitter [@Adwaiy R](https://twitter.com/adwaiyr)
 
 
 
